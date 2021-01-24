@@ -11,10 +11,7 @@ For more click help....</b>"""
 
 <code>🌀 Select the Corresponding mode that you need</code>
 
-<code>🌀 Your Edited Image will be Uploaded </code>
-
-
-© @TroJanzHEX"""
+<code>🌀 Your Edited Image will be Uploaded </code"""
     ABOUT_MSG = """⭕️<b>My Name : Image Editor</b>
 
 ⭕️<b>Language :</b> <code>Python3</code>
